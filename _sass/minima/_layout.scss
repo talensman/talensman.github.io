@@ -193,10 +193,12 @@
 
   letter-spacing: -1px;
 
-  position: relative; 
-  top: -10px;
+  line-height: 0.9;
 
-  margin-bottom: 0px;
+  // position: relative; 
+  // top: -10px;
+  // // padding-top: 0px;
+  margin-bottom: $spacing-unit * 0.75;
 }
 
 .post-list-heading {
