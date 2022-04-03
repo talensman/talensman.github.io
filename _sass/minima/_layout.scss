@@ -191,6 +191,8 @@
 .page-heading {
   @include relative-font-size(2);
 
+  letter-spacing: -1px;
+
   position: relative; 
   top: -9px;
 
