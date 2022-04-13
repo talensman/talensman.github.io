@@ -13,7 +13,7 @@ with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah D
 ## Working Papers
 
 
-Limits to Buyer Power: Input Prices and Pass-Through in Horizontal Merger Policy • <a href="/files/research/ipp2.pdf" target="_blank">PDF</a><br>
+Limits to Buyer Power: Input Prices and Pass-Through in Horizontal Merger Policy • <a href="/files/research/ipp2.pdf">PDF</a><br>
 February 2022<br>
 with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
@@ -27,7 +27,7 @@ with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah D
 ## Publications
 
 
-Implications of Uncertainty for Optimal Policies • <a href="/files/research/AwL-pub.pdf" target="_blank">PDF</a> • <a href="/files/research/AwL-7-slides.pdf" target="_blank">Slides</a><br>
+Implications of Uncertainty for Optimal Policies • <a href="/files/research/AwL-pub.pdf">PDF</a> • <a href="/files/research/AwL-7-slides.pdf">Slides</a><br>
 *Journal of Economic Theory*, January 2022<br>
 with <a href="http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=max_troshkin" target="_blank">Maxim Troshkin</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
