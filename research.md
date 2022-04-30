@@ -13,13 +13,13 @@ with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah D
 ## Working Papers
 
 
-Limits to Buyer Power: Input Prices and Pass-Through in Horizontal Merger Policy • <a href="/files/research/ipp2.pdf">PDF</a><br>
+Limits to Buyer Power: Input Prices and Pass-Through in Horizontal Merger Policy • <a href="/files/research/ipp3.pdf">PDF</a><br>
 February 2022<br>
 with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
-	We re-examine the "buyer power" defense to horizontal mergers using models of price competition in which input prices are set before goods prices. We derive a measure of unilateral incentives to adjust input prices after a downstream merger, Input Pricing Pressure, and we use it to show that mergers often incentivize higher input prices. Consumer surplus-maximizing antitrust policy is often too lax when input prices are assumed fixed, and it should be biased against buyer power claims. In an empirical application to local retail beer markets, endogenizing input prices substantially raises the consumer harm from mergers of retailers.
+	We re-examine the "buyer power" defense to horizontal mergers using models of imperfect competition in which input prices are set before goods prices. We derive a measure of unilateral incentives to adjust input prices after a downstream merger, Input Pricing Pressure, and we use it to show that mergers often incentivize higher input prices. Consumer surplus-maximizing antitrust policy is often too lax when input prices are assumed fixed, and it should be biased against buyer power claims. In an empirical application to local retail beer markets, endogenizing input prices substantially raises the consumer harm from mergers of retailers.
 	
 </details>
 
