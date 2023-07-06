@@ -16,6 +16,17 @@ with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_
 ## Working Papers
 
 
+Regulating Transformative Technologies • <a href="/files/research/tech-reg-8.pdf">PDF</a><br>
+July 2023<br>
+with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a><br>
+<details style="margin-bottom: 15px; margin-top: -15px">
+	<summary style="color: #2a7ae2">Abstract</summary>
+
+	Transformative technologies like generative artificial intelligence promise to accelerate productivity growth across many sectors, but they also present new risks from potential misuse. We develop a multi-sector technology adoption model to study the optimal regulation of transformative technologies when society can learn about these risks over time. Socially optimal adoption is gradual and convex. If social damages are proportional to the productivity gains from the new technology, a higher growth rate leads to slower optimal adoption. Equilibrium adoption is inefficient when firms do not internalize all social damages, and sector-independent regulation is helpful but generally not sufficient to restore optimality.
+	
+</details>
+
+
 Limits to Buyer Power: Input Prices and Pass-Through in Horizontal Merger Policy • <a href="/files/research/ipp3.pdf">PDF</a><br>
 February 2022<br>
 with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a><br>
