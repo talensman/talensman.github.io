@@ -9,6 +9,9 @@ permalink: /research/
 <!-- Externalities and Innovation Policy: A Structural Approach<br>
 with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a> -->
 
+Combining Complements: Theory and Evidence from Cancer Treatment Innovation<br>
+with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a><br>
+
 Technology Paradigms, Lock-in, and Economic Growth<br>
 with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a>
 
