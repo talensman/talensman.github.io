@@ -4,17 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-## In Progress
-
-<!-- Externalities and Innovation Policy: A Structural Approach<br>
-with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a> -->
-
-Combining Complements: Theory and Evidence from Cancer Treatment Innovation<br>
-with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a><br>
-
-Technology Paradigms, Lock-in, and Economic Growth<br>
-with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a>
-
 
 ## Working Papers
 
@@ -54,3 +43,13 @@ with <a href="http://business-school.exeter.ac.uk/about/people/profile/index.php
 	We study the implications of ambiguity for optimal ﬁscal policy in macro public ﬁnance environments with heterogeneous agents and private idiosyncratic shocks. We describe conditions under which ambiguity implies that it is optimal to periodically reform policies. Periodic reforms lead to simpliﬁed optimal policies that are not fully contingent on future shocks; at times they also lose dependence on the full history of past shocks. These simpliﬁed policies can be characterized without complete backward induction when the time horizon is ﬁnite. However, linear policies can be far from optimal. We also show that equilibria in decentralized versions of these economies are not generally efﬁcient, implying a meaningful role for government provision of insurance, unlike in conventional environments with a narrower view of uncertainty.
 
 </details>
+
+
+## In Progress
+
+
+Combining Complements: Theory and Evidence from Cancer Treatment Innovation<br>
+with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a><br>
+
+Technology Paradigms, Lock-in, and Economic Growth<br>
+with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a>
