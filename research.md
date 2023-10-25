@@ -9,7 +9,7 @@ permalink: /research/
 
 
 Regulating Transformative Technologies • <a href="/files/research/tech-reg-8.pdf">PDF</a> • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
-July 2023<br>
+July 2023, *Conditionally Accepted at AER: Insights*<br>
 with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a><br>
 <!-- Media: <a href="https://qz.com/the-economic-case-for-slowing-down-ai-1850627827" target="_blank">Quartz</a><br> -->
 <details style="margin-bottom: 15px; margin-top: -15px">
@@ -35,7 +35,7 @@ with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah D
 
 
 Implications of Uncertainty for Optimal Policies • <a href="/files/research/AwL-pub.pdf">PDF</a> • <a href="/files/research/AwL-7-slides.pdf">Slides</a><br>
-*Journal of Economic Theory*, January 2022<br>
+January 2022, *Journal of Economic Theory*<br>
 with <a href="http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=max_troshkin" target="_blank">Maxim Troshkin</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
