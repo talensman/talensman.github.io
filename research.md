@@ -11,13 +11,13 @@ permalink: /research/
 Regulating Transformative Technologies • <a href="/files/research/tech-reg-revise.pdf">PDF</a> • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
 July 2023, *conditionally accepted at AER: Insights*<br>
 with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a><br>
-<details style="margin-bottom: 15px; margin-top: -15px">
+<details style="margin-bottom: 5px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
 	Transformative technologies like generative artificial intelligence promise to accelerate productivity growth across many sectors, but they also present new risks from potential misuse. We develop a multi-sector technology adoption model to study the optimal regulation of transformative technologies when society can learn about these risks over time. Socially optimal adoption is gradual and convex. If social damages are proportional to the productivity gains from the new technology, a higher growth rate leads to slower optimal adoption. Equilibrium adoption is inefficient when firms do not internalize all social damages, and sector-independent regulation is helpful but generally not sufficient to restore optimality.
 	
 </details><br>
-Media: <a href="https://www.chicagobooth.edu/review/ai-is-going-disrupt-labor-market-it-doesnt-have-destroy-it" target="_blank">Chicago Booth Review</a><br> <a href="https://qz.com/the-economic-case-for-slowing-down-ai-1850627827" target="_blank">Quartz</a><br> 
+Media: <a href="https://www.chicagobooth.edu/review/ai-is-going-disrupt-labor-market-it-doesnt-have-destroy-it" target="_blank">Chicago Booth Review</a> • <a href="https://qz.com/the-economic-case-for-slowing-down-ai-1850627827" target="_blank">Quartz</a><br> 
 
 
 Limits to Buyer Power: Input Prices and Pass-Through in Horizontal Merger Policy • <a href="/files/research/ipp3.pdf">PDF</a><br>
