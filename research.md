@@ -22,8 +22,8 @@ with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah D
 ## Publications
 
 
-Regulating Transformative Technologies • <a href="/files/research/tech-reg-revise.pdf">PDF</a> • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
-November 2023, *forthcoming at American Economic Review: Insights*<br>
+Regulating Transformative Technologies • <a href="/files/research/tech-reg-final.pdf">PDF</a> • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
+January 2024, *forthcoming at American Economic Review: Insights*<br>
 with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a><br>
 <details style="margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
