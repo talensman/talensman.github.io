@@ -8,8 +8,8 @@ permalink: /research/
 ## Working Papers
 
 
-Limits to Buyer Power: Input Prices and Pass-Through in Horizontal Merger Policy • <a href="/files/research/ipp3.pdf">PDF</a><br>
-February 2022<br>
+Limits to Buyer Power: Input Prices and Pass-Through in Horizontal Merger Policy • <a href="/files/research/ipp.pdf">PDF</a><br>
+April 2022<br>
 with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
