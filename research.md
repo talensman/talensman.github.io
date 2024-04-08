@@ -8,7 +8,7 @@ permalink: /research/
 ## Working Papers
 
 
-Input-Price Responses to Horizontal Mergers and the Bargaining-Leverage Defense • <a href="/files/research/ipp.pdf">PDF</a><br>
+<b>Input-Price Responses to Horizontal Mergers and the Bargaining-Leverage Defense</b> • <a href="/files/research/ipp.pdf">PDF</a><br>
 September 2022<br>
 with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
@@ -22,7 +22,7 @@ with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah D
 ## Publications
 
 
-Regulating Transformative Technologies • <a href="/files/research/tech-reg-final.pdf">PDF</a> • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
+<b>Regulating Transformative Technologies</b> • <a href="/files/research/tech-reg-final.pdf">PDF</a> • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
 January 2024, *forthcoming at American Economic Review: Insights*<br>
 with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a><br>
 <details style="margin-top: -15px">
@@ -34,7 +34,7 @@ with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_
 Media: <a style = "margin-bottom: 15px" href="https://www.chicagobooth.edu/review/ai-is-going-disrupt-labor-market-it-doesnt-have-destroy-it" target="_blank">Chicago Booth Review</a> • <a href="https://qz.com/the-economic-case-for-slowing-down-ai-1850627827" target="_blank">Quartz</a><br> 
 
 
-Implications of Uncertainty for Optimal Policies • <a href="/files/research/AwL-pub.pdf">PDF</a> • <a href="/files/research/AwL-7-slides.pdf">Slides</a><br>
+<b>Implications of Uncertainty for Optimal Policies</b> • <a href="/files/research/AwL-pub.pdf">PDF</a> • <a href="/files/research/AwL-7-slides.pdf">Slides</a><br>
 January 2022, *Journal of Economic Theory*<br>
 with <a href="http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=max_troshkin" target="_blank">Maxim Troshkin</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
@@ -48,8 +48,8 @@ with <a href="http://business-school.exeter.ac.uk/about/people/profile/index.php
 ## In Progress
 
 
-Combining Complements: Theory and Evidence from Cancer Treatment Innovation<br>
+<b>Combining Complements: Theory and Evidence from Cancer Treatment Innovation</b><br>
 with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a><br>
 
-Technology Paradigms, Lock-in, and Economic Growth<br>
+<b>Technology Paradigms, Lock-in, and Economic Growth</b><br>
 with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a>
