@@ -8,7 +8,7 @@ permalink: /research/
 ## Working Papers
 
 
-<b>Input-Price Responses to Horizontal Mergers and the Bargaining-Leverage Defense</b> • <a href="/files/research/ipp.pdf">PDF</a><br>
+<b>Input-Price Responses to Horizontal Mergers and the Bargaining-Leverage Defense</b> • <a href="/files/research/ipp.pdf">PDF</a> • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4074160" target="_blank">SSRN</a><br>
 September 2022<br>
 with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a><br>
 <details style="margin-bottom: 15px; margin-top: -15px">
