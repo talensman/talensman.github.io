@@ -252,7 +252,8 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.5);
     }
-    margin-top: $spacing-unit;
+    /*margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit;*/
     font-weight: $base-font-weight * 1.25
   }
 
@@ -262,6 +263,7 @@
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+    font-weight: $base-font-weight * 1.25
   }
 
   h4 {

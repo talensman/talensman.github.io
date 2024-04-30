@@ -7,49 +7,60 @@ permalink: /research/
 
 ## Publications
 
+<p style = "margin-top:25px"></p>
 
-<b>Regulating Transformative Technologies</b> • <a href="/files/research/tech-reg-final.pdf">PDF</a> • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
-January 2024, *forthcoming at American Economic Review: Insights*<br>
-with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a><br>
-<details style="margin-top: -15px">
+
+<a style = "font-weight:625" href="/files/research/tech-reg-final.pdf">Regulating Transformative Technologies</a> (with Daron Acemoglu) <br>
+January 2024, *forthcoming at American Economic Review: Insights* • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
+Media: <a style = "margin-bottom: 15px" href="https://www.chicagobooth.edu/review/ai-is-going-disrupt-labor-market-it-doesnt-have-destroy-it" target="_blank">Chicago Booth Review</a> • <a href="https://marginalrevolution.com/marginalrevolution/2023/07/regulating-transformative-technologies.html" target="_blank">Marginal Revolution</a> • <a href="https://qz.com/the-economic-case-for-slowing-down-ai-1850627827" target="_blank">Quartz</a>
+<p style = "margin-bottom: 20px"></p>
+
+<!-- <details style="margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
 	Transformative technologies like generative AI promise to accelerate productivity growth across many sectors, but they also present new risks from potential misuse. We develop a multi-sector technology adoption model to study the optimal regulation of transformative technologies when society can learn about these risks over time. Socially optimal adoption is gradual and typically convex. If social damages are large and proportional to the new technology's productivity, a higher growth rate paradoxically leads to slower optimal adoption. Equilibrium adoption is inefficient when firms do not internalize all social damages, and sector-independent regulation is helpful but generally not sufficient to restore optimality.
 	
-</details>
-Media: <a style = "margin-bottom: 15px" href="https://www.chicagobooth.edu/review/ai-is-going-disrupt-labor-market-it-doesnt-have-destroy-it" target="_blank">Chicago Booth Review</a> • <a href="https://qz.com/the-economic-case-for-slowing-down-ai-1850627827" target="_blank">Quartz</a><br> 
+</details> -->
 
 
-<b>Implications of Uncertainty for Optimal Policies</b> • <a href="/files/research/AwL-pub.pdf">PDF</a> • <a href="/files/research/AwL-7-slides.pdf">Slides</a><br>
-January 2022, *Journal of Economic Theory*<br>
-with <a href="http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=max_troshkin" target="_blank">Maxim Troshkin</a><br>
-<details style="margin-bottom: 15px; margin-top: -15px">
+
+
+<a style = "font-weight:625" href="/files/research/AwL-pub.pdf">Implications of Uncertainty for Optimal Policies</a> (with Maxim Troshkin)<br>
+January 2022, *Journal of Economic Theory* • <a href="/files/research/AwL-7-slides.pdf">Slides</a>
+
+<!-- <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
 	We study the implications of ambiguity for optimal ﬁscal policy in macro public ﬁnance environments with heterogeneous agents and private idiosyncratic shocks. We describe conditions under which ambiguity implies that it is optimal to periodically reform policies. Periodic reforms lead to simpliﬁed optimal policies that are not fully contingent on future shocks; at times they also lose dependence on the full history of past shocks. These simpliﬁed policies can be characterized without complete backward induction when the time horizon is ﬁnite. However, linear policies can be far from optimal. We also show that equilibria in decentralized versions of these economies are not generally efﬁcient, implying a meaningful role for government provision of insurance, unlike in conventional environments with a narrower view of uncertainty.
 
-</details>
+</details> -->
 
+
+<p style = "margin-top:25px"></p>
 
 ## Working Papers
 
+<p style = "margin-top:25px"></p>
 
-<b>Input-Price Responses to Horizontal Mergers and the Bargaining-Leverage Defense</b> • <a href="/files/research/ipp.pdf">PDF</a> • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4074160" target="_blank">SSRN</a><br>
-September 2022<br>
-with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a><br>
-<details style="margin-bottom: 15px; margin-top: -15px">
+
+<a style = "font-weight:625" href="/files/research/ipp.pdf">Input-Price Responses to Horizontal Mergers and the Bargaining-Leverage Defense</a> (with Rebekah Dix)<br>
+September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4074160" target="_blank">SSRN</a>
+
+<!-- <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
 	We study the implications of endogenous input prices for horizontal merger policy when input prices are set before goods prices. Generalizing the ﬁrst-order approach of Farrell and Shapiro (2010) and Jaffe and Weyl (2013), we derive a measure of unilateral incentives to adjust input prices after a downstream merger, Input Pricing Pressure. We use this measure to show that mergers often incentivize higher input prices, and that these incentives hinge on changes in downstream pass-through rates and marginal cost efﬁciencies generated by the merger. By implication, consumer surplus-maximizing antitrust policy may be too lax when input prices are assumed ﬁxed, and it should be biased against claims that input prices will fall after a downstream merger. In an empirical application to local retail beer markets, endogenizing input prices substantially raises the consumer harm from mergers of retailers.
 	
-</details>
+</details> -->
 
+
+<p style = "margin-top:25px"></p>
 
 ## In Progress
 
+<p style = "margin-top:25px"></p>
 
-<b>Combining Complements: Theory and Evidence from Cancer Treatment Innovation</b><br>
-with <a href="https://rebekahanne.github.io/research/" target="_blank">Rebekah Dix</a><br>
 
-<b>Technology Paradigms, Lock-in, and Economic Growth</b><br>
-with <a href="https://economics.mit.edu/people/faculty/daron-acemoglu" target="_blank">Daron Acemoglu</a>
+<p><b-custom>Combining Complements: Theory and Evidence from Cancer Treatment Innovation</b-custom> (with Rebekah Dix)</p>
+
+<p><b-custom>Technology Paradigms, Lock-in, and Economic Growth</b-custom> (with Daron Acemoglu)</p>
