@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-notes
 title: Notes
 permalink: /notes/
 ---
@@ -38,7 +38,7 @@ PhD Public Finance Recitations (updated: March 2022)
 
 <p style = "margin-top:25px"></p>
 
-## Miscellaneous
+## Other
 
 <p style = "margin-top:25px"></p>
 

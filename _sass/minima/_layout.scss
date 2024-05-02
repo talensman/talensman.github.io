@@ -28,6 +28,7 @@
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;
+  font-weight: $base-font-weight * 1.25 * 1.25;
 
   .nav-trigger {
       display: none;
@@ -39,6 +40,24 @@
 
   .page-link {
     // color: $text-color;
+    // line-height: $base-line-height;
+
+    // &:hover {
+    // color: $brand-color;
+    // text-decoration: none;
+    // }
+
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+
+  .page-link-active {
+    color: $text-color;
+    // text-decoration: underline;
+    // text-decoration-thickness: 2px;
     // line-height: $base-line-height;
 
     // &:hover {
