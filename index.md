@@ -12,3 +12,5 @@ I'm interested in macroeconomics and industrial organization, with an emphasis o
 
 [Email](mailto:tlensman@mit.edu) • [Google Scholar](https://scholar.google.com/citations?user=L9CjfvsAAAAJ&hl=en) • [Twitter](https://twitter.com/talensman)
 
+
+My partner María Ballesteros is a PhD candidate in the Department of Government at Harvard. Check out her work [here](https://mariaballesteros.com)!
