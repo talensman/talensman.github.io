@@ -6,7 +6,7 @@ layout: home
 title: About
 ---
 
-Hi! I'm a fifth-year PhD student in the Department of Economics at MIT.
+Hi! I'm a sixth-year PhD student in the Department of Economics at MIT.
 
 I'm interested in macroeconomics and industrial organization, with an emphasis on growth and technological change.
 
