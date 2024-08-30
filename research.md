@@ -10,7 +10,7 @@ permalink: /research/
 <p style = "margin-top:25px"></p>
 
 
-<a style = "font-weight:625" href="/files/research/tech-reg-final.pdf">Regulating Transformative Technologies</a> (with Daron Acemoglu) <br>
+<a style = "font-weight:625" href="/files/research/tech-reg-live.pdf">Regulating Transformative Technologies</a> (with Daron Acemoglu) <br>
 September 2024, *American Economic Review: Insights* • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
 Media: <a style = "margin-bottom: 15px" href="https://www.chicagobooth.edu/review/ai-is-going-disrupt-labor-market-it-doesnt-have-destroy-it" target="_blank">Chicago Booth Review</a> • <a href="https://marginalrevolution.com/marginalrevolution/2023/07/regulating-transformative-technologies.html" target="_blank">Marginal Revolution</a> • <a href="https://qz.com/the-economic-case-for-slowing-down-ai-1850627827" target="_blank">Quartz</a>
 <p style = "margin-bottom: 20px"></p>
@@ -25,7 +25,7 @@ Media: <a style = "margin-bottom: 15px" href="https://www.chicagobooth.edu/revie
 
 
 
-<a style = "font-weight:625" href="/files/research/AwL-pub.pdf">Implications of Uncertainty for Optimal Policies</a> (with Maxim Troshkin)<br>
+<a style = "font-weight:625" href="/files/research/AwL-live.pdf">Implications of Uncertainty for Optimal Policies</a> (with Maxim Troshkin)<br>
 January 2022, *Journal of Economic Theory* • <a href="/files/research/AwL-7-slides.pdf">Slides</a>
 
 <!-- <details style="margin-bottom: 15px; margin-top: -15px">
@@ -43,7 +43,7 @@ January 2022, *Journal of Economic Theory* • <a href="/files/research/AwL-7-sl
 <p style = "margin-top:25px"></p>
 
 
-<a style = "font-weight:625" href="/files/research/ipp.pdf">Input-Price Responses to Horizontal Mergers and the Bargaining-Leverage Defense</a> (with Rebekah Dix)<br>
+<a style = "font-weight:625" href="/files/research/ipp-live.pdf">Input-Price Responses to Horizontal Mergers and the Bargaining-Leverage Defense</a> (with Rebekah Dix)<br>
 September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4074160" target="_blank">SSRN</a>
 
 <!-- <details style="margin-bottom: 15px; margin-top: -15px">
