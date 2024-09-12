@@ -11,7 +11,7 @@ permalink: /research/
 
 
 <a style = "font-weight:625" href="/files/research/tech-reg-live.pdf">Regulating Transformative Technologies</a> (with Daron Acemoglu) <br>
-September 2024, *American Economic Review: Insights* • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
+September 2024, *American Economic Review: Insights* • <a href="/files/research/tech-reg_online-appendix-live.pdf">Online Appendix</a> • <a href="https://www.openicpsr.org/openicpsr/project/196262/version/V1/view" target="_blank">Replication Package</a> • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
 Media: <a style = "margin-bottom: 15px" href="https://www.chicagobooth.edu/review/ai-is-going-disrupt-labor-market-it-doesnt-have-destroy-it" target="_blank">Chicago Booth Review</a> • <a href="https://marginalrevolution.com/marginalrevolution/2023/07/regulating-transformative-technologies.html" target="_blank">Marginal Revolution</a> • <a href="https://qz.com/the-economic-case-for-slowing-down-ai-1850627827" target="_blank">Quartz</a>
 <p style = "margin-bottom: 20px"></p>
 
