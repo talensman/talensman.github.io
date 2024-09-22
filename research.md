@@ -56,11 +56,11 @@ September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 
 <p style = "margin-top:25px"></p>
 
-## In Progress
+<!-- ## In Progress
 
 <p style = "margin-top:25px"></p>
 
 
 <p><b-custom>Combining Complements: Theory and Evidence from Cancer Treatment Innovation</b-custom> (with Rebekah Dix)</p>
 
-<p><b-custom>Technology Paradigms, Lock-in, and Economic Growth</b-custom> (with Daron Acemoglu)</p>
+<p><b-custom>Technology Paradigms, Lock-in, and Economic Growth</b-custom> (with Daron Acemoglu)</p> -->
