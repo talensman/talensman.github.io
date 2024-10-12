@@ -78,7 +78,7 @@ September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 
 <p><b-custom>Entrepreneurship and Productivity Growth in Tight Labor Markets</b-custom></p>
 
-<details style="margin-bottom: 15px">
+<details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
 	Motivated by recent evidence linking local labor market tightness to business creation, I study conditions under which a positive aggregate demand shock can raise productivity growth by incentivizing high-tech entrepreneurship. I develop a search model of the labor market in which workers face an occupational choice between employment and entrepreneurship. Successful entrepreneurs create firms by adopting technologies from a productivity frontier, while unsuccessful ones become unemployed. An aggregate demand shock that raises labor demand has an ambiguous effect on entrepreneurship: A tighter labor market lowers the cost of failure by shortening unemployment spells, but it also directly raises the opportunity cost of entrepreneurship. The former channel dominates when successful entrepreneurs primarily come from employment, providing a mechanism by which an increase in aggregate demand can increase productivity. This mechanism suggests a novel role for accommodative monetary policy to stimulate productivity growth, and I consider methods to estimate its magnitude in the data.
@@ -87,7 +87,7 @@ September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 
 <p><b-custom>A Theory of Innovative Firms and Power over New Technologies and Researchers</b-custom></p>
 
-<details style="margin-bottom: 15px">
+<details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
 
 	I construct a theory to explain the emergence of large, innovative firms as a means to internalize spillovers in the innovation process, and I show how these firms exert power over the direction of innovation and the labor market for researchers. Researchers must choose one of several technologies to study, and their innovations generate knowledge spillovers to others working on the same technology. A manager can internalize these spillovers by coordinating researchers’ innovation decisions, raising economic growth given a fixed set of technologies. But with limits to firm size from convex monitoring costs, I show that this innovative firm can instead slow growth and reduce welfare when new technologies arrive over time: If innovation is combinatorial, so that the owners of past innovations for a technology benefit from subsequent ones, the firm has an incentive to pursue an old technology even as outside researchers exploit a more productive new one. Limits to firm size imply that spillovers are only partially internalized, so the equilibrium direction of innovation is generally inefficient. These spillovers allow the firm to distort the innovation decisions of outside researchers, and I explore how the firm can exploit its size in the labor market for researchers to affect the direction of innovation.
