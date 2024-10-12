@@ -6,7 +6,7 @@ layout: home
 title: About
 ---
 
-Hi! I'm a PhD student at MIT Economics **on the 2024-2025 academic job market**.
+Hi! I'm a PhD student at MIT Economics **on the 2024-2025 job market**.
 
 I study macroeconomics, innovation, and industrial organization using theory and data. I'm particularly interested in how new technologies drive economic growth and how firm incentives shape this process.
 
