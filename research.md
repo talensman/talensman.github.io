@@ -85,7 +85,7 @@ September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 	
 </details>
 
-<p><b-custom>A Theory of Innovative Firms and Power over New Technologies and Research</b-custom></p>
+<p><b-custom>A Theory of Innovative Firms and Power over New Technologies and Researchers</b-custom></p>
 
 <details style="margin-bottom: 15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
