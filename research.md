@@ -4,6 +4,16 @@ title: Research
 permalink: /research/
 ---
 
+## Job Market Paper
+
+<p style = "margin-top:25px"></p>
+
+
+<a style = "font-weight:625">Market Structure, Spillovers, and Technology Choice</a><br>
+*Draft coming soon*
+
+
+<p style = "margin-top:25px"></p>
 
 ## Publications
 
@@ -43,6 +53,11 @@ January 2022, *Journal of Economic Theory* • <a href="/files/research/AwL-7-sl
 <p style = "margin-top:25px"></p>
 
 
+<a style = "font-weight:625">Combining Complements: Theory and Evidence from Cancer Treatment Innovation</a> (with Rebekah Dix)<br>
+*Draft coming soon*
+<p style = "margin-bottom: 20px"></p>
+
+
 <a style = "font-weight:625" href="/files/research/ipp-live.pdf">Input-Price Responses to Horizontal Mergers and the Bargaining-Leverage Defense</a> (with Rebekah Dix)<br>
 September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4074160" target="_blank">SSRN</a>
 
@@ -61,6 +76,6 @@ September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 <p style = "margin-top:25px"></p>
 
 
-<p><b-custom>Combining Complements: Theory and Evidence from Cancer Treatment Innovation</b-custom> (with Rebekah Dix)</p>
 
-<p><b-custom>Technology Paradigms, Lock-in, and Economic Growth</b-custom> (with Daron Acemoglu)</p> -->
+<p><b-custom>Technology Paradigms, Lock-in, and Economic Growth</b-custom> (with Daron Acemoglu)</p>
+ -->
