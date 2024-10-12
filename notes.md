@@ -8,11 +8,11 @@ permalink: /notes/
 Feel free to email me with suggestions or errors you find in my notes! I post updates periodically, so some of the notes may be (temporarily) incomplete.
 
 
-<p style = "margin-top:25px"></p>
+<p style = "margin-top:20px"></p>
 
-## Teaching
+### Teaching
 
-<p style = "margin-top:25px"></p>
+<p style = "margin-top:20px"></p>
 
 
 PhD Economic Growth Recitations (updated: December 2023)
@@ -36,11 +36,11 @@ PhD Public Finance Recitations (updated: March 2022)
 </ul>
 
 
-<p style = "margin-top:25px"></p>
+<p style = "margin-top:20px"></p>
 
-## Other
+### Other
 
-<p style = "margin-top:25px"></p>
+<p style = "margin-top:20px"></p>
 
 
 <a href="/files/notes/misc/Innovation-and-Firm-Dynamics.pdf">Innovation and Firm Dynamics</a> (updated: June 2022)

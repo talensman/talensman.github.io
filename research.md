@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-## Job Market Paper
+### Job Market Paper
 
-<p style = "margin-top:25px"></p>
+<p style = "margin-top:20px"></p>
 
 
 <b-custom style = "font-weight:625">Market Structure, Spillovers, and Technology Choice</b-custom>
@@ -15,9 +15,9 @@ permalink: /research/
 
 <p style = "margin-top:40px"></p>
 
-## Publications
+### Publications
 
-<p style = "margin-top:25px"></p>
+<p style = "margin-top:20px"></p>
 
 
 <a style = "font-weight:625" href="/files/research/tech-reg-live.pdf">Regulating Transformative Technologies</a> (with Daron Acemoglu) <br>
@@ -48,9 +48,9 @@ January 2022, *Journal of Economic Theory* • <a href="/files/research/AwL-7-sl
 
 <p style = "margin-top:40px"></p>
 
-## Working Papers
+### Working Papers
 
-<p style = "margin-top:25px"></p>
+<p style = "margin-top:20px"></p>
 
 
 <b-custom style = "font-weight:625">Combining Complements: Theory and Evidence from Cancer Treatment Innovation</b-custom> (with Rebekah Dix)<br>
@@ -71,9 +71,9 @@ September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 
 <p style = "margin-top:40px"></p>
 
-## In Progress
+### In Progress
 
-<p style = "margin-top:25px"></p>
+<p style = "margin-top:20px"></p>
 
 
 <p><b-custom>Entrepreneurship and Productivity Growth in Tight Labor Markets</b-custom></p>
