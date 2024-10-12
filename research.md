@@ -13,7 +13,7 @@ permalink: /research/
 *Draft coming soon*
 
 
-<p style = "margin-top:25px"></p>
+<p style = "margin-top:40px"></p>
 
 ## Publications
 
@@ -46,7 +46,7 @@ January 2022, *Journal of Economic Theory* • <a href="/files/research/AwL-7-sl
 </details> -->
 
 
-<p style = "margin-top:25px"></p>
+<p style = "margin-top:40px"></p>
 
 ## Working Papers
 
@@ -69,7 +69,7 @@ September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 </details> -->
 
 
-<p style = "margin-top:25px"></p>
+<p style = "margin-top:40px"></p>
 
 ## In Progress
 
