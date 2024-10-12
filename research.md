@@ -9,7 +9,7 @@ permalink: /research/
 <p style = "margin-top:25px"></p>
 
 
-<a style = "font-weight:625">Market Structure, Spillovers, and Technology Choice</a><br>
+<b-custom style = "font-weight:625">Market Structure, Spillovers, and Technology Choice</b-custom><br>
 *Draft coming soon*
 
 
@@ -53,7 +53,7 @@ January 2022, *Journal of Economic Theory* • <a href="/files/research/AwL-7-sl
 <p style = "margin-top:25px"></p>
 
 
-<a style = "font-weight:625">Combining Complements: Theory and Evidence from Cancer Treatment Innovation</a> (with Rebekah Dix)<br>
+<b-custom style = "font-weight:625">Combining Complements: Theory and Evidence from Cancer Treatment Innovation</b-custom> (with Rebekah Dix)<br>
 *Draft coming soon*
 <p style = "margin-bottom: 20px"></p>
 
@@ -71,11 +71,13 @@ September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 
 <p style = "margin-top:25px"></p>
 
-<!-- ## In Progress
+## In Progress
 
 <p style = "margin-top:25px"></p>
 
 
+<p><b-custom>Entrepreneurship and Productivity Growth in Tight Labor Markets</b-custom></p>
+
+<p><b-custom>A Theory of Innovative Firms and Granular Research Labor Markets</b-custom></p>
 
 <p><b-custom>Technology Paradigms, Lock-in, and Economic Growth</b-custom> (with Daron Acemoglu)</p>
- -->
