@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Job Market Paper
+## Job Market Paper
 
 <p style = "margin-top:20px"></p>
 
@@ -15,7 +15,7 @@ permalink: /research/
 
 <p style = "margin-top:40px"></p>
 
-### Publications
+## Publications
 
 <p style = "margin-top:20px"></p>
 
@@ -48,7 +48,7 @@ January 2022, *Journal of Economic Theory* • <a href="/files/research/AwL-7-sl
 
 <p style = "margin-top:40px"></p>
 
-### Working Papers
+## Working Papers
 
 <p style = "margin-top:20px"></p>
 
@@ -71,7 +71,7 @@ September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 
 <p style = "margin-top:40px"></p>
 
-### In Progress
+## In Progress
 
 <p style = "margin-top:20px"></p>
 

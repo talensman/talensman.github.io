@@ -10,7 +10,7 @@ Feel free to email me with suggestions or errors you find in my notes! I post up
 
 <p style = "margin-top:20px"></p>
 
-### Teaching
+## Teaching
 
 <p style = "margin-top:20px"></p>
 
@@ -38,7 +38,7 @@ PhD Public Finance Recitations (updated: March 2022)
 
 <p style = "margin-top:20px"></p>
 
-### Other
+## Other
 
 <p style = "margin-top:20px"></p>
 
