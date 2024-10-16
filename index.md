@@ -12,4 +12,4 @@ I study macroeconomics, innovation, and industrial organization using a mix of t
 
 [Email](mailto:tlensman@mit.edu) • [Google Scholar](https://scholar.google.com/citations?user=L9CjfvsAAAAJ&hl=en) • [Twitter](https://twitter.com/talensman)
 
-My partner María Ballesteros is a PhD student in the Department of Government at Harvard. Check out her work <a href="http://mariaballesteros.com" target="_blank">here</a>!
+<!-- My partner María Ballesteros is a PhD student in the Department of Government at Harvard. Check out her work <a href="http://mariaballesteros.com" target="_blank">here</a>! -->
