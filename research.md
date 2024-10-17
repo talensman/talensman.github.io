@@ -9,7 +9,7 @@ permalink: /research/
 <p style = "margin-top:20px"></p>
 
 
-<b-custom style = "font-weight:625">Market Structure, Spillovers, and Technology Choice</b-custom>
+<b-custom style = "font-weight:625">Technology Choice, Spillovers, and the Concentration of R&D</b-custom>
 *Draft coming soon*
 
 
