@@ -53,8 +53,7 @@ January 2022, *Journal of Economic Theory* • <a href="/files/research/AwL-7-sl
 <p style = "margin-top:20px"></p>
 
 
-<b-custom style = "font-weight:625">Combining Complements: Theory and Evidence from Cancer Treatment Innovation</b-custom> (with Rebekah Dix)<br>
-*Draft coming soon*
+<a style = "font-weight:625" href="https://rebekahanne.github.io/files/dix_lensman_cancer.pdf">Combining Complements: Theory and Evidence from Cancer Treatment Innovation</a> (with Rebekah Dix)<br>
 <p style = "margin-bottom: 20px"></p>
 
 
