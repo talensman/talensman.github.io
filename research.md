@@ -9,7 +9,7 @@ permalink: /research/
 <p style = "margin-top:20px"></p>
 
 
-<a style = "font-weight:625" href="/files/research/tech-choice-live.pdf">Technology Choice, Spillovers, and the Concentration of R&D</a>
+<a style = "font-weight:625" href="/files/research/tech-choice-live.pdf">Technology Choice, Spillovers, and the Concentration of R&D</a><br>
 *Draft coming soon*
 
 
