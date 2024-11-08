@@ -10,7 +10,7 @@ permalink: /research/
 
 
 <a style = "font-weight:625" href="/files/research/tech-choice-live.pdf">Technology Choice, Spillovers, and the Concentration of R&D</a><br>
-<!-- *Draft coming soon!* -->
+November 2024
 
 
 <p style = "margin-top:40px"></p>
@@ -54,6 +54,7 @@ January 2022, *Journal of Economic Theory* • <a href="/files/research/AwL-7-sl
 
 
 <a style = "font-weight:625" href="https://rebekahanne.github.io/files/dix_lensman_cancer.pdf">Combining Complements: Theory and Evidence from Cancer Treatment Innovation</a> (with Rebekah Dix)<br>
+November 2024
 <p style = "margin-bottom: 20px"></p>
 
 
