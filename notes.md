@@ -15,13 +15,13 @@ Feel free to email me with suggestions or errors you find in my notes! I post up
 <p style = "margin-top:20px"></p>
 
 
-Recitations: PhD Antitrust and Regulation (updated: February 2025)
+PhD Antitrust and Regulation (updated: February 2025)
 <ul style="list-style:none; margin-top:-10px">
 	<li><a href="/files/notes/14.272/recitation-1.pdf">Regulation with Asymmetric Information</a></li>
 </ul>
 
 
-Recitations: PhD Economic Growth (updated: December 2024)
+PhD Economic Growth (updated: December 2024)
 <ul style="list-style:none; margin-top:-10px">
 	<li><a href="/files/notes/14.452/recitation-1.pdf">Panel Data, Democracy, Kaldor</a></li>
 	<li><a href="/files/notes/14.452/recitation-2.pdf">Uzawa, Solow, Growth Regressions</a></li>
@@ -31,8 +31,7 @@ Recitations: PhD Economic Growth (updated: December 2024)
 	<li><a href="/files/notes/14.452/recitation-6.pdf">Directed Technical Change</a></li>
 </ul>
 
-
-Recitations: PhD Public Finance (updated: March 2022)
+PhD Public Finance (updated: March 2022)
 <ul style="list-style:none; margin-top:-10px">
 	<li><a href="/files/notes/14.471/R1-Pigouvian-Taxation.pdf">Pigouvian Taxation</a></li>
 	<li><a href="/files/notes/14.471/R2-Diamond-Mirrlees-I.pdf">Diamond-Mirrlees I</a></li>
