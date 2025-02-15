@@ -15,7 +15,13 @@ Feel free to email me with suggestions or errors you find in my notes! I post up
 <p style = "margin-top:20px"></p>
 
 
-PhD Economic Growth Recitations (updated: December 2024)
+Recitations: PhD Antitrust and Regulation (updated: February 2025)
+<ul style="list-style:none; margin-top:-10px">
+	<li><a href="/files/notes/14.272/recitation-1.pdf">Regulation with Asymmetric Information</a></li>
+</ul>
+
+
+Recitations: PhD Economic Growth (updated: December 2024)
 <ul style="list-style:none; margin-top:-10px">
 	<li><a href="/files/notes/14.452/recitation-1.pdf">Panel Data, Democracy, Kaldor</a></li>
 	<li><a href="/files/notes/14.452/recitation-2.pdf">Uzawa, Solow, Growth Regressions</a></li>
@@ -26,7 +32,7 @@ PhD Economic Growth Recitations (updated: December 2024)
 </ul>
 
 
-PhD Public Finance Recitations (updated: March 2022)
+Recitations: PhD Public Finance (updated: March 2022)
 <ul style="list-style:none; margin-top:-10px">
 	<li><a href="/files/notes/14.471/R1-Pigouvian-Taxation.pdf">Pigouvian Taxation</a></li>
 	<li><a href="/files/notes/14.471/R2-Diamond-Mirrlees-I.pdf">Diamond-Mirrlees I</a></li>
@@ -34,11 +40,6 @@ PhD Public Finance Recitations (updated: March 2022)
 	<li><a href="/files/notes/14.471/R4-Chamley-Judd-Revisited.pdf">Chamley-Judd (Revisited)</a></li>
 	<li><a href="/files/notes/14.471/R5-Nonlinear-Income-Taxation-I.pdf">Nonlinear Income Taxation I</a></li>
 	<li><a href="/files/notes/14.471/R6-Nonlinear-Income-Taxation-II.pdf">Nonlinear Income Taxation II</a></li>
-</ul>
-
-PhD Regulation and Antitrust Recitations (updated: February 2025)
-<ul style="list-style:none; margin-top:-10px">
-	<li><a href="/files/notes/14.272/recitation-1.pdf">Regulation with Asymmetric Information</a></li>
 </ul>
 
 
