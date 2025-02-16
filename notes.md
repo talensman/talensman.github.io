@@ -15,13 +15,15 @@ Feel free to email me with suggestions or errors you find in my notes! I post up
 <p style = "margin-top:20px"></p>
 
 
-PhD Antitrust and Regulation (updated: February 2025)
+PhD Antitrust and Regulation <br>
+February 2025
 <ul style="list-style:none; margin-top:-10px">
 	<li><a href="/files/notes/14.272/recitation-1.pdf">Regulation with Asymmetric Information</a></li>
 </ul>
 
 
-PhD Economic Growth (updated: December 2024)
+PhD Economic Growth <br>
+December 2024
 <ul style="list-style:none; margin-top:-10px">
 	<li><a href="/files/notes/14.452/recitation-1.pdf">Panel Data, Democracy, Kaldor</a></li>
 	<li><a href="/files/notes/14.452/recitation-2.pdf">Uzawa, Solow, Growth Regressions</a></li>
@@ -31,7 +33,8 @@ PhD Economic Growth (updated: December 2024)
 	<li><a href="/files/notes/14.452/recitation-6.pdf">Directed Technical Change</a></li>
 </ul>
 
-PhD Public Finance (updated: March 2022)
+PhD Public Finance <br>
+March 2022
 <ul style="list-style:none; margin-top:-10px">
 	<li><a href="/files/notes/14.471/R1-Pigouvian-Taxation.pdf">Pigouvian Taxation</a></li>
 	<li><a href="/files/notes/14.471/R2-Diamond-Mirrlees-I.pdf">Diamond-Mirrlees I</a></li>
@@ -49,10 +52,17 @@ PhD Public Finance (updated: March 2022)
 <p style = "margin-top:20px"></p>
 
 
-<a href="/files/notes/misc/Innovation-and-Firm-Dynamics.pdf">Innovation and Firm Dynamics</a> (updated: June 2022)
+<a href="/files/notes/misc/Innovation-and-Firm-Dynamics.pdf">Innovation and Firm Dynamics</a> <br>
+June 2022
 
-<a href="/files/notes/misc/Pass-Through-and-Mergers.pdf">Pass-Through and Mergers</a> (updated: September 2021)
+<a href="/files/notes/misc/Pass-Through-and-Mergers.pdf">Pass-Through and Mergers</a> <br>
+September 2021
 
-<a href="/files/notes/misc/Unemployment-Insurance.pdf">Optimal Unemployment Insurance</a> (updated: August 2020)
+<a href="/files/notes/misc/Unemployment-Insurance.pdf">Optimal Unemployment Insurance</a> <br>
+August 2020
 
-<a href="/files/notes/misc/Mixed-Tax.pdf">Mixed Taxation and the Atkinson-Stiglitz Theorem</a> (updated: July 2020)
+<a href="/files/notes/misc/Mixed-Tax.pdf">Mixed Taxation and the Atkinson-Stiglitz Theorem</a> <br>
+July 2020
+
+<a href="/files/notes/misc/Optimal-Control-Nonlinear-Taxation.pdf">Optimal Control and Nonlinear Taxation</a> <br>
+February 2018
