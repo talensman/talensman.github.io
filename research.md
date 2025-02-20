@@ -10,7 +10,7 @@ permalink: /research/
 
 
 <a style = "font-weight:625" href="/files/research/tech-choice-live.pdf">Technology Choice, Spillovers, and the Concentration of R&D</a><br>
-January 2025
+<b-color>January 2025</b-color>
 
 
 <p style = "margin-top:40px"></p>
@@ -21,7 +21,7 @@ January 2025
 
 
 <a style = "font-weight:625" href="/files/research/tech-reg-live.pdf">Regulating Transformative Technologies</a><br>
-September 2024, *American Economic Review: Insights* • <a href="/files/research/tech-reg_online-appendix-live.pdf">Online Appendix</a> • <a href="https://www.openicpsr.org/openicpsr/project/196262/version/V1/view" target="_blank">Code</a> • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
+<b-color>September 2024, American Economic Review: Insights</b-color> • <a href="/files/research/tech-reg_online-appendix-live.pdf">Online Appendix</a> • <a href="https://www.openicpsr.org/openicpsr/project/196262/version/V1/view" target="_blank">Code</a> • <a href="https://www.nber.org/papers/w31461?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg27" target="_blank">NBER</a><br>
 with Daron Acemoglu<br>
 Media: <a style = "margin-bottom: 15px" href="https://www.chicagobooth.edu/review/ai-is-going-disrupt-labor-market-it-doesnt-have-destroy-it" target="_blank">Chicago Booth Review</a> • <a href="https://marginalrevolution.com/marginalrevolution/2023/07/regulating-transformative-technologies.html" target="_blank">Marginal Revolution</a> • <a href="https://qz.com/the-economic-case-for-slowing-down-ai-1850627827" target="_blank">Quartz</a>
 <p style = "margin-bottom: 20px"></p>
@@ -37,7 +37,7 @@ Media: <a style = "margin-bottom: 15px" href="https://www.chicagobooth.edu/revie
 
 
 <a style = "font-weight:625" href="/files/research/AwL-live.pdf">Implications of Uncertainty for Optimal Policies</a><br>
-January 2022, *Journal of Economic Theory* • <a href="/files/research/AwL-7-slides.pdf">Slides</a><br>
+<b-color>January 2022, Journal of Economic Theory</b-color> • <a href="/files/research/AwL-7-slides.pdf">Slides</a><br>
 with Maxim Troshkin
 
 <!-- <details style="margin-bottom: 15px; margin-top: -15px">
@@ -56,13 +56,13 @@ with Maxim Troshkin
 
 
 <a style = "font-weight:625" href="https://rebekahanne.github.io/files/dix_lensman_cancer.pdf">Combining Complements: Theory and Evidence from Cancer Treatment Innovation</a><br>
-January 2025<br>
+<b-color>January 2025</b-color><br>
 with Rebekah Dix
 <p style = "margin-bottom: 20px"></p>
 
 
 <a style = "font-weight:625" href="/files/research/ipp-live.pdf">Input-Price Responses to Horizontal Mergers and the Bargaining-Leverage Defense</a><br>
-September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4074160" target="_blank">SSRN</a><br>
+<b-color>September 2022</b-color> • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4074160" target="_blank">SSRN</a><br>
 with Rebekah Dix
 
 <!-- <details style="margin-bottom: 15px; margin-top: -15px">
