@@ -98,7 +98,8 @@ September 2022 • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=
 	
 </details>
 
-<p><b-custom>Technology Paradigms, Lock-in, and Economic Growth</b-custom> (with Daron Acemoglu)</p>
+<p><b-custom>Technology Paradigms, Lock-in, and Economic Growth</b-custom><br>
+with Daron Acemoglu</p>
 
 <details style="margin-bottom: 15px; margin-top: -15px">
 	<summary style="color: #2a7ae2">Abstract</summary>
