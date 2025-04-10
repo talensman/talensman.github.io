@@ -19,7 +19,7 @@ Feel free to email me with suggestions or errors you find in my notes! I post up
 <ul style="list-style:none; margin-top:-10px">
 	<li><a href="/files/notes/14.272/recitation-1.pdf">Regulation with Asymmetric Information</a></li>
 	<li><a href="/files/notes/14.272/recitation-3a.pdf">The Cournot Model</a></li>
-	<li><a href="/files/notes/14.272/recitation-3b.pdf">Nocke-Schutz Multi-Product Oligopoly</a></li>
+	<li><a href="/files/notes/14.272/recitation-3b.pdf">Nocke-Schutz Oligopoly</a></li>
 </ul>
 
 
