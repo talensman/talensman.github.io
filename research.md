@@ -46,7 +46,7 @@ with Maxim Troshkin
 
 
 <a style = "font-weight:625" href="/files/research/tech-choice-live.pdf">Technology Choice, Spillovers, and the Concentration of R&D</a><br>
-<b-color>January 2025</b-color> (Job Market Paper)
+<b-color>January 2025</b-color> (Job Market Paper) • <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5134946" target="_blank">SSRN</a>
 <p style = "margin-bottom: 20px"></p>
 
 
