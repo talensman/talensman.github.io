@@ -15,9 +15,11 @@ Feel free to email me with suggestions or errors you find in my notes! I post up
 <p style = "margin-top:20px"></p>
 
 
-<p><b-custom>PhD Antitrust and Regulation</b-custom> (February 2025)</p>
+<p><b-custom>PhD Antitrust and Regulation</b-custom> (April 2025)</p>
 <ul style="list-style:none; margin-top:-10px">
 	<li><a href="/files/notes/14.272/recitation-1.pdf">Regulation with Asymmetric Information</a></li>
+	<li><a href="/files/notes/14.272/recitation-3a.pdf">The Cournot Model</a></li>
+	<li><a href="/files/notes/14.272/recitation-3b.pdf">Nocke-Schutz Multi-Product Oligopoly</a></li>
 </ul>
 
 
