@@ -6,12 +6,10 @@ layout: home
 title: About
 ---
 
-Hi! I'm a PhD student at MIT Economics.
+Hi! I'm an assistant professor in the Entrepreneurial Management Unit at Harvard Business School.
 
 I study macroeconomics, innovation, and industrial organization using a mix of theory and data. I'm particularly interested in how new technologies drive economic growth and how firm incentives shape this process.
 
-In July 2025, I will join the Entrepreneurial Management Unit at Harvard Business School as an assistant professor.
-
-[Email](mailto:tlensman@mit.edu) • [Google Scholar](https://scholar.google.com/citations?user=L9CjfvsAAAAJ&hl=en) • [Twitter](https://twitter.com/talensman)
+[Email](mailto:tlensman@hbs.edu) • [Google Scholar](https://scholar.google.com/citations?user=L9CjfvsAAAAJ&hl=en) • [Twitter](https://twitter.com/talensman)
 
 <!-- My partner María Ballesteros is a PhD student in the Department of Government at Harvard. Check out her work <a href="http://mariaballesteros.com" target="_blank">here</a>! -->
