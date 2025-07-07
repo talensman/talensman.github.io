@@ -10,6 +10,6 @@ Hi! I'm an assistant professor in the Entrepreneurial Management Unit at Harvard
 
 I study macroeconomics, innovation, and industrial organization using a mix of theory and data. I'm particularly interested in how new technologies drive economic growth and how firm incentives shape this process.
 
-[Email](mailto:tlensman@hbs.edu) • [Google Scholar](https://scholar.google.com/citations?user=L9CjfvsAAAAJ&hl=en) • [Twitter](https://twitter.com/talensman)
+[Email](mailto:tlensman@hbs.edu) • [HBS Site](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1661455) • [Google Scholar](https://scholar.google.com/citations?user=L9CjfvsAAAAJ&hl=en) • [Twitter](https://twitter.com/talensman)
 
 <!-- My partner María Ballesteros is a PhD student in the Department of Government at Harvard. Check out her work <a href="http://mariaballesteros.com" target="_blank">here</a>! -->
