@@ -50,7 +50,7 @@ with Maxim Troshkin
 <p style = "margin-bottom: 20px"></p>
 
 
-<a style = "font-weight:625" href="https://rebekahanne.github.io/files/dix_lensman_cancer.pdf">Combining Complements: Theory and Evidence from Cancer Treatment Innovation</a><br>
+<a style = "font-weight:625" href="/files/research/cancer-live.pdf">Combining Complements: Theory and Evidence from Cancer Treatment Innovation</a><br>
 <b-color>January 2025</b-color><br>
 with Rebekah Dix
 <p style = "margin-bottom: 20px"></p>
