@@ -68,7 +68,7 @@ with Rebekah Dix
 </details> -->
 
 
-<p style = "margin-top:40px"></p>
+<!-- <p style = "margin-top:40px"></p>
 
 ## In Progress
 
@@ -102,4 +102,4 @@ with Daron Acemoglu</p>
 
 	We develop a theory of economic growth in which innovation alternates between dominant technological paradigms and the emerging paradigms that might replace them. Innovation within a paradigm is subject to decreasing returns as “ideas get harder to find,” but innovations for an emerging paradigm only generate profits after it becomes dominant. Our analysis reveals how this trade-off can generate technological lock-in or growth cycles. Long-run growth requires the development of both dominant and emerging paradigms, and we show how creative destruction within and across paradigms distorts this process. We explore methods to identify technological paradigms in the patent data, facilitating empirical analysis of productivity dynamics as industries proceed along paradigms and transition between them. We assess the extent to which declining research productivity can be attributed to the maturation of dominant paradigms, suggesting scope for a growth resurgence as innovators explore alternatives.
 	
-</details>
+</details> -->
